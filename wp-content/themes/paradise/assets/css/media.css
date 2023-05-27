@@ -1,0 +1,1479 @@
+@media (max-width: 1600px) {
+
+
+    .adventages__item-descr {
+        font-size: 18px;
+        width: 300px;
+        margin-top: 18px;
+    }
+
+    .container {
+        max-width: 72%;
+    }
+
+    .tabs__catalog-mahorka,
+    .tabs__catalog-chillax {
+        width: 1360px;
+    }
+
+    .line-with-circles {
+        width: 100%;
+    }
+
+    .popup,
+    .popup__form {
+        top: 16%;
+    }
+
+}
+
+@media (max-width: 1366px) {
+    .promo__slider_nav {
+        top: 100px;
+    }
+
+    .nav__navigation-item-promo {
+        margin-right: 15px;
+        font-size: 16px;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        top: 100px;
+    }
+
+    .nav__navigation-item {
+        margin-right: 15px;
+    }
+
+    .nav__logo_link-img {
+        width: 265px;
+    }
+
+    .nav_contact-city,
+    .nav__navigation-item {
+        font-size: 16px;
+    }
+
+    .nav_contact-tel {
+        font-size: 18px;
+    }
+
+
+    .feedback__review-img-1 {
+        top: 185px;
+    }
+
+    .feedback__review-img-2 {
+        left: 331px;
+        top: 269px;
+    }
+
+    .feedback__review-img-3 {
+        top: 349px;
+    }
+
+    .feedback__review-img-4 {
+        top: 414px;
+        left: 488px;
+    }
+
+    .feedback__review-img-5 {
+        left: 355px;
+        top: 140px;
+    }
+
+    .feedback__review-img-6 {
+        top: 269px;
+        left: 739px;
+    }
+
+    .feedback__review-img-7 {
+        top: 113px;
+        left: 714px;
+
+    }
+
+    .feedback__review-img-8 {
+
+        top: 575px;
+    }
+
+    .feedback__review-img-9 {
+        top: 497px;
+        left: 512px;
+    }
+
+    .about__exclusive-brands {
+        margin-right: 50px;
+    }
+
+    .about__exclusive-brand {
+        width: 240px;
+
+        margin-top: 30px;
+        margin-right: 25px;
+    }
+
+    .about__exclusive-brand-twice {
+        width: 240px;
+
+        margin-top: 30px;
+
+    }
+
+    .about__exclusive-brand-third {
+        width: 505px;
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax {
+        width: 1161px;
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+    }
+
+    .tabs__catalog::-webkit-scrollbar,
+    .tabs__catalog-massons::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+    }
+
+    .avdentages-item {
+        padding: 25px 10px;
+    }
+
+    .contacts__wrapper {
+        margin-top: 30px;
+        padding: 10.5px 7px 10.5px 7px;
+
+    }
+
+    .footer__btn-up-img {
+        right: -70px;
+    }
+
+    .popup__old {
+        font-size: 36px;
+    }
+
+    .popup__access {
+        margin-top: 15px;
+        font-size: 18px;
+    }
+
+    .popup__descr {
+        margin-top: 8px;
+        font-size: 14px;
+    }
+
+    .popup__danger {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+
+    .close,
+    .popup__cancel {
+        padding: 0 15px;
+        line-height: 40px;
+    }
+
+}
+
+@media (max-width: 1280px) {
+    .avdentages-item {
+        width: 32.782946%;
+    }
+
+    .promo__head {
+        font-size: 50px;
+    }
+
+    .promo__descr {
+        font-size: 20px;
+    }
+
+    .promo__slider_nav {
+        top: 150px;
+        left: 85.5%;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        left: calc(85% + 80px);
+        top: 150px;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax {
+        width: 1088px;
+    }
+
+    .about__exclusive-choose {
+        width: 500px;
+    }
+
+    .feedback__review-img-9 {
+        top: 490px;
+        left: 476px;
+    }
+
+    .contacts__address-work-time-day {
+        padding: 10px 10px;
+        font-size: 18px;
+    }
+
+
+    .tabs__catalog-more-window {
+        width: 75%;
+    }
+
+    .tabs__catalog-more-window img {
+        margin-right: 30px;
+    }
+
+    .tabs__catalog-more-text>p:nth-child(1),
+    .tabs__catalog-more-text>p:nth-child(2) {
+        font-size: 18px;
+    }
+
+}
+
+@media (max-width: 1146px) {
+
+    .feedback__reviews {
+        overflow-x: scroll;
+        display: flex;
+        flex-wrap: nowrap;
+        width: 100%;
+    }
+
+    .feedback__reviews::-webkit-scrollbar {
+        width: 0px;
+        height: 0px;
+    }
+
+    .feedback__review img {
+        margin-right: 15px;
+        transform: none;
+        position: static;
+    }
+
+    .container {
+        max-width: 87%;
+    }
+
+    .feedback__wrapper {
+        min-height: 0;
+        padding-bottom: 50px;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax {
+        width: 974px;
+    }
+
+    .popup__form_tel {
+        width: 405px;
+        padding: 7px 57px 8px 57px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .nav__icon {
+        display: flex;
+        align-items: center;
+        font-size: 24px;
+    }
+
+
+    .nav__icon a:nth-child(2) {
+        margin-right: 35px;
+    }
+
+    .nav .nav__navigation-items {
+        display: none;
+        position: absolute;
+        top: 19%;
+        padding: 20px 10px;
+        background-color: #ffffff;
+        border-radius: 20px;
+        animation: 5s show ease;
+    }
+
+    @keyframes show {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+    .adventages-head {
+        margin-top: 100px;
+    }
+
+    .promo__img-vape {
+        margin-top: 40px;
+        margin-bottom: 50px;
+        height: 250px;
+    }
+
+    .footer__btn-up-img {
+        display: none;
+    }
+
+    .promo__slider_nav {
+        top: 90px;
+        left: 79%;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        left: calc(79% + 80px);
+        top: 90px;
+    }
+
+
+    .avdentages-item {
+        width: 45%;
+        margin-top: 60px !important;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax {
+        width: 870px;
+    }
+
+    .tabs__catalog-item,
+    .tabs__catalog_item-masons {
+        width: 100%;
+        margin-right: 15px;
+    }
+
+    .about__exclusive-brand {
+        width: 210px;
+        margin-top: 25px;
+        margin-right: 20px;
+    }
+
+    .about__exclusive-brand-twice {
+        width: 210px;
+        margin-top: 25px;
+    }
+
+
+    .tabs__catalog-more-window img {
+        height: 300px;
+    }
+
+    .tabs__catalog-more-info {
+        flex-direction: column;
+    }
+
+    .tabs__catalog-more-text {
+        width: 100%;
+    }
+
+    .tabs__catalog-more-content {
+        margin: 35px 0 0 35px;
+    }
+
+    .about__exclusive-brand-third {
+        width: 440px;
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+
+    .about__exclusive-choose {
+        width: 450px;
+    }
+
+    .footer__text-leftside {
+        margin-right: 10px;
+    }
+
+    .popup,
+    .popup__form {
+        top: 10%;
+    }
+
+    .privacy__head {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 868px) {
+    .promo__head {
+        font-size: 40px;
+    }
+
+    .privacy__head {
+        font-size: 32px;
+    }
+
+    .about__exclusive-brand {
+        margin-right: 10px;
+    }
+
+    .about__exclusive-brand,
+    .about__exclusive-brand-twice {
+        width: 180px;
+        padding: 20px 20px 10px 20px;
+    }
+
+    .about__exclusive-brand-third {
+        width: 370px;
+        padding: 20px 20px 20px 20px;
+    }
+
+    .about__exclusive-brands {
+        margin-right: 15px;
+    }
+
+    .new__promo-title {
+        font-size: 40px;
+    }
+
+    .new__promo-descr {
+        font-size: 26px;
+    }
+
+    .about__exclusive-choose {
+        margin-top: 20px;
+        width: 400px;
+    }
+
+    .contacts__addres-social {
+        margin-right: 10px;
+        margin-left: 15px;
+    }
+
+    .nav_contact-tel,
+    .nav_contact-tel,
+    .contacts__address-work-time-span {
+        font-size: 16px;
+    }
+
+    .contacts__address-work-time-day {
+        font-size: 14px;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax {
+        width: 737px;
+    }
+
+    .footer__text-age {
+        margin-top: 55px;
+        margin-left: 5px;
+        font-size: 20px;
+    }
+
+    .footer__text-danger {
+        font-size: 42px;
+    }
+
+    .popup__old {
+        font-size: 30px;
+    }
+
+    .popup__access {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .popup__descr {
+        margin-top: 6px;
+        font-size: 12px;
+    }
+
+    .close,
+    .popup__cancel {
+        padding: 0 15px;
+        line-height: 34px;
+        font-size: 14px;
+    }
+
+    .loader {
+        width: 300px;
+        top: calc(50% - 150px);
+        left: calc(50% - 150px);
+    }
+
+    .popup__form_tel {
+        width: 100%;
+        margin: 15px auto;
+        padding: 8px 30px 8px 30px;
+        font-size: 24px;
+    }
+
+    .popup__form-policy {
+        font-size: 18px;
+    }
+
+    .popup__form-policy-link {
+        font-size: 16px;
+    }
+
+    .popup__form-btn,
+    .popup__form-btn-link {
+        padding: 0 15px;
+        line-height: 34px;
+        font-size: 14px;
+        margin: 10px auto;
+
+    }
+}
+
+@media (max-width: 768px) {
+    .promo__slider_nav {
+        top: 63px;
+    }
+
+    .error__wrapper {
+        padding-top: 300px;
+        padding-left: 28px;
+    }
+
+    .slider__twice {
+        margin-left: 35%;
+    }
+    
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        top: 63px;
+    }
+
+
+    .promo__head {
+        font-size: 35px;
+    }
+
+    .adventages-head {
+        margin-top: 150px;
+        font-size: 40px;
+    }
+
+    .slider__item {
+        min-height: 700px !important;
+    }
+
+    .promo__img-vape {
+        margin-bottom: 30px;
+    }
+
+    .avdentages-item {
+        width: 49%;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 652px;
+    }
+
+    .tabs__catalog-third {
+        overflow-x: scroll;
+    }
+
+    .tabs__catalog-third::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+    }
+
+    .tabs__catalog-third .tabs__catalog_item {
+        margin-right: 40px
+    }
+
+    .tabs__catalog-more-window {
+        width: 85%;
+    }
+
+    .tabs__catalog-more-window img {
+        height: 250px;
+    }
+
+    .tabs__catalog-more-text>p:nth-child(1),
+    .tabs__catalog-more-text>p:nth-child(2) {
+        font-size: 16px;
+    }
+
+    .new__promo-title {
+        font-size: 38px;
+    }
+
+    .new__promo-descr {
+        font-size: 24px;
+    }
+
+    .new__promo_btn {
+        font-size: 18px;
+    }
+
+    .about__exclusive-num,
+    .about__exclusive-num-twice,
+    .about__exclusive-num-third {
+        font-size: 50px;
+    }
+
+    .about__exclusive-brand,
+    .about__exclusive-brand-twice,
+    .about__exclusive-brand-third {
+        font-size: 16px;
+    }
+
+    .about__exclusive-brand,
+    .about__exclusive-brand-twice {
+        width: 160px;
+        height: 160px;
+    }
+
+    .about__exclusive-brand-third {
+        width: 330px;
+        height: 160px;
+    }
+
+    .about__exclusive-choose {
+        width: 350px;
+    }
+
+    .about__exclusive-choose,
+    .about__exclusive-can {
+        font-size: 16px;
+
+    }
+
+    .about__exclusive-can {
+        margin-top: 50px;
+
+    }
+
+    .footer__text-age {
+        font-size: 12px;
+        width: 30px;
+        height: 30px;
+        margin-left: 0;
+    }
+
+    .nav_contact-tel {
+        font-size: 12px;
+    }
+
+    .contacts__addres-contact-address {
+        font-size: 14px;
+    }
+
+    .contacts__address-work-time-day {
+        font-size: 10px;
+    }
+
+    .contacts__addres-social {
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+
+    .popup {
+        padding: 20px 25px 25px 25px;
+        top: 14%;
+    }
+
+    .popup__form {
+        padding: 25px 30px;
+
+    }
+
+    .popup__form-btn-link {
+        width: 230px;
+    }
+
+    .popup__form_tel {
+        padding: 8px 25px 8px 25px;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 640px) {
+
+    .promo__img-vape {
+        height: 200px;
+    }
+    
+    .error__wrapper {
+        padding-top: 150px;
+    }
+
+    .promo__descr-third {
+        font-size: 20px;
+    }
+
+    .about__exclusive-brand,
+    .about__exclusive-brand-twice {
+        width: 140px;
+        height: 140px;
+        padding: 10px 20px 10px 20px;
+    }
+
+    .about__exclusive-brand-third {
+        width: 290px;
+        height: 140px;
+    }
+
+    .about__exclusive-choose,
+    .about__exclusive-can {
+        font-size: 14px;
+        width: 280px;
+
+    }
+
+    .adventages__item-tittle {
+        font-size: 20px;
+    }
+
+    .promo__slider_nav {
+        top: 60px;
+        left: 74%;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        top: 60px;
+        left: calc(74% + 80px);
+    }
+
+    .promo__btn-catalog,
+    .promo__btn-catalog {
+        padding: 15px 20px;
+    }
+
+    .adventages__item-tittle {
+        font-size: 18px;
+    }
+
+    .adventages__item-descr {
+        font-size: 14px;
+        width: 240px;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 544px;
+    }
+
+    .footer__text-rightside {
+        display: unset;
+    }
+
+    .footer__text-age {
+        font-size: 12px;
+        width: 30px;
+        height: 30px;
+        margin-left: auto;
+        margin-top: auto;
+    }
+
+    .footer__text-descr {
+        font-size: 11px;
+    }
+
+    .footer__text-leftside {
+        margin-right: 10px;
+        font-size: 14px;
+    }
+
+    .footer__text-danger {
+        font-size: 30px;
+    }
+
+    .footer__text-year {
+        margin-top: 50px;
+    }
+
+    .popup {
+        width: calc(69% - 16px);
+    }
+
+    .popup__form {
+        width: calc(60% - 16px);
+    }
+
+    .popup__old {
+        font-size: 19px;
+    }
+
+    .popup__form-btn-link {
+        width: 75%;
+    }
+
+    .popup__form-btn,
+    .popup__form-btn-link {
+        line-height: 32px;
+    }
+
+    .popup__form_tel {
+        padding: 6px 15px 6px 15px;
+        font-size: 12px;
+    }
+
+    .popup__form .popup__head {
+        flex-direction: column;
+    }
+
+    .popup__form-policy {
+        font-size: 12px;
+    }
+
+    .popup__form-policy-link {
+        font-size: 12px;
+    }
+
+    .popup__head-thx {
+        flex-direction: column;
+    }
+
+    .popup__thx-img {
+        display: block;
+        margin: 5px auto;
+    }
+
+    .popup__thx-title {
+        margin-top: 15px;
+        font-size: 26px;
+    }
+
+    .popup__thx-descr {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+}
+
+@media (max-width: 540px) {
+    .nav__contact {
+        display: none;
+    }
+
+    .nav__navigation-item-promo {
+        margin-top: 20px;
+        display: block;
+        text-align: center;
+    }
+
+    .promo__btn-contact {
+        margin-left: 0;
+    }
+
+    .slider__four {
+        padding-top: 110px;
+    }
+
+    .slider__third {
+        padding-top: 90px;
+    }
+
+    .promo-vape-twice {
+        background-position: inherit;
+    }
+
+    .slider__twice {
+        padding-top: 0;
+    }
+
+    .slider__item {
+        min-height: 600px !important;
+    }
+
+    .nav_contact-city,
+    .nav__navigation-item {
+        margin-top: 20px;
+        display: block;
+        text-align: center;
+    }
+
+    .promo__head {
+        font-size: 25px;
+    }
+
+    .promo__btn-catalog {
+        display: none;
+    }
+
+    .shop__position-style {
+        margin-bottom: 35px;
+    }
+
+    .adventages-head {
+        margin-top: 150px;
+        font-size: 35px;
+    }
+
+    .adventages__item-descr {
+        width: 200px;
+    }
+
+    .adventages__item-tittle {
+        font-size: 16px;
+        margin-left: 4px;
+    }
+
+    .slider__twice {
+        margin-left: 0%;
+    }
+
+
+    .new__promo-descr {
+        font-size: 16px;
+    }
+
+    .contacts__wrapper {
+        height: 180px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 459px;
+    }
+
+    .new__promo-title {
+        font-size: 30px;
+    }
+
+    .new__promo-descr {
+        font-size: 20px;
+    }
+
+    .promo__slider_nav {
+        left: 65%;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        left: calc(65% + 80px);
+    }
+
+    .promo__descr,
+    .promo__descr-third {
+        font-size: 18px;
+    }
+
+    .about__exclusive-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about__exclusive-brands {
+        width: 100%;
+    }
+
+    .about__exclusive-brand,
+    .about__exclusive-brand-twice {
+        width: 48%;
+    }
+
+    .about__exclusive-wrapper .about__exclusive-brands {
+        justify-content: center;
+    }
+
+    .about__exclusive-brand-third {
+        width: calc(96% + 10px);
+    }
+
+    .about__exclusive-choose,
+    .about__exclusive-can {
+        width: 100%;
+        margin-bottom: 54px;
+    }
+
+    .footer__text-danger {
+        font-size: 24px;
+    }
+
+    .footer__text-year {
+        margin-top: 46px;
+    }
+
+    .tabs__catalog-more-window img {
+        height: 200px;
+    }
+
+    .tabs__catalog-more-text>p:nth-child(1),
+    .tabs__catalog-more-text>p:nth-child(2) {
+        font-size: 14px;
+    }
+
+    .loader {
+        width: 250px;
+        top: calc(50% - 125px);
+        left: calc(50% - 125px);
+    }
+
+    .popup__form-btn-link img {
+        display: none;
+    }
+
+    .popup__form-btn,
+    .popup__form-btn-link {
+        padding: 0 10px;
+    }
+
+    .popup__thx-img {
+        height: 100px;
+    }
+
+    .popup__thx {
+        width: calc(60% - 16px);
+        padding: 35px 20px;
+    }
+
+}
+
+@media (max-width: 480px) {
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 408px;
+    }
+
+    .popup,
+    .popup__form {
+        width: calc(85% - 16px);
+    }
+
+    .popup {
+        left: 46%;
+    }
+
+    .popup__form {
+        left: 47%;
+    }
+
+    .tabs__catalog-more-window {
+        width: 95%;
+    }
+
+    .popup__form-btn-link {
+        width: 70%;
+    }
+}
+
+@media (max-width: 440px) {
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 374px;
+    }
+
+    .promo__img-vape {
+        display: none;
+    }
+
+    .promo__img-vape-small {
+        display: block;
+        margin-bottom: 30px;
+        margin-top: 40px;
+        border-radius: 10px;
+        width: 100%;
+        height: 200px;
+    }
+
+    .adventages__item-tittle {
+        font-size: 14px;
+        margin-left: 3px;
+    }
+
+    .error__text {
+        font-size: 48px;
+    }
+
+    .adventages__item-descr {
+        font-size: 12px;
+        width: 170px;
+    }
+
+    .footer__text-copyright {
+        font-size: 14px;
+    }
+
+    .footer__logo img {
+        width: 85%;
+    }
+
+    .footer__text-danger {
+        font-size: 20px;
+    }
+
+    .footer__text-year {
+        margin-top: 42px;
+    }
+
+    .tabs__catalog-more-window img {
+        height: 169px;
+    }
+}
+
+@media (max-width: 420px) {
+    .promo__slider_nav {
+        left: 60%;
+    }
+
+    .slider__twice {
+        padding-top: 80px;
+    }
+
+    .promo__slider_nav-last, .promo__slider_nav-first, .promo__slider_nav {
+        top: 30px;
+    }
+
+    .privacy__head {
+        font-size: 28px;
+    }
+
+    .privacy__text {
+        font-size: 16px;
+    }
+
+    .close,
+    .popup__cancel {
+        font-size: 12px;
+    }
+
+    .promo__descr,
+    .promo__descr-third {
+        font-size: 12px;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        left: calc(60% + 80px);
+    }
+
+    .adventages-head {
+        margin-top: 150px;
+        font-size: 30px;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 357px;
+    }
+
+    .adventages__item-tittle {
+        font-size: 20px;
+    }
+
+    .avdentages-item {
+        width: 98%;
+        padding: 35px 35px;
+        min-height: 200px;
+    }
+
+    .new__promo-title {
+        font-size: 24px;
+    }
+
+    .new__promo-descr {
+        font-size: 16px;
+    }
+
+    .avdentages-item {
+        margin-top: 25px !important;
+        padding: 25px 20px;
+    }
+
+    .adventages__item-descr {
+        font-size: 18px;
+        width: 100%;
+    }
+
+    .footer__social-links {
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+
+    .footer__addres-social {
+        margin-top: 0;
+        padding-left: 116px;
+    }
+
+    .tabs__catalog-more-content {
+        margin: 25px 0 0 15px;
+    }
+
+    .popup__old-thx {
+        font-size: 25px;
+    }
+
+    .popup__thx-img {
+        height: 90px;
+    }
+
+    .popup__thx-title {
+        margin-top: 10px;
+        font-size: 24px;
+    }
+
+    .popup__logo-thx img {
+        width: 170px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .promo__slide_btn-back-img,
+    .promo__slide_btn-next-img {
+        width: 40px;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        left: calc(60% + 70px);
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 340px;
+    }
+
+    .popup__old {
+        font-size: 26px;
+    }
+
+    .popup__descr {
+        margin-top: 5px;
+        font-size: 11px;
+    }
+
+    .close,
+    .popup__cancel {
+        padding: 0 5px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+
+    .popup__danger {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    .tabs__catalog-more-window img {
+        height: 145px;
+        margin-right: 10px;
+    }
+
+    .tabs__catalog-more-text>p:nth-child(1),
+    .tabs__catalog-more-text>p:nth-child(2) {
+        font-size: 12px;
+    }
+
+    .loader {
+        width: 200px;
+        top: calc(50% - 100px);
+        left: calc(50% - 100px);
+    }
+
+    .tabs__catalog-more-text>p:nth-child(1),
+    .tabs__catalog-more-text>p:nth-child(2) {
+        margin-bottom: 3px;
+    }
+
+    .popup__thx {
+        width: calc(72% - 16px);
+    }
+}
+
+@media (max-width: 390px) {
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 331.5px;
+    }
+
+    .tabs__nav-btn {
+        padding: 15px 25px;
+        font-size: 14px;
+    }
+
+    .popup__form-btn-link {
+        width: 75%;
+    }
+}
+
+@media (max-width: 375px) {
+
+    .privacy__head {
+        font-size: 24px;
+    }
+
+    .slider__twice {
+        padding-top: 80px;
+    }
+
+    .nav__logo_link-img {
+        width: 240px;
+    }
+
+    .error__btn-link {
+        font-size: 16px;
+    }
+
+    .promo__slider_nav {
+        left: 58%;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        left: calc(58% + 80px);
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 318.75px;
+    }
+
+    .footer__text-danger {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 320px) {
+    .promo__slider_nav {
+        left: 48%;
+    }
+
+    .nav__icon {
+        font-size: 20px;
+    }
+
+    .promo__slider_nav-last,
+    .promo__slider_nav-first {
+        left: calc(48% + 80px);
+    }
+
+    .adventages-head {
+        margin-top: 100px;
+    }
+
+    .tabs__catalog,
+    .tabs__catalog-mahorka,
+    .tabs__catalog-massons,
+    .tabs__catalog-chillax,
+    .tabs__catalog-third {
+        width: 272px;
+    }
+
+    .about__exclusive-brand,
+    .about__exclusive-brand-twice,
+    .about__exclusive-brand-third {
+        font-size: 14px;
+    }
+
+    .tabs__nav-btn {
+        padding: 15px 15px;
+    }
+
+    .contacts__wrapper {
+        flex-direction: column;
+        height: 190px;
+
+    }
+
+    .footer__text-descr {
+        font-size: 10px;
+    }
+
+    .footer__text-copyright {
+        font-size: 14px;
+    }
+
+    .footer__logo img {
+        width: 290px;
+    }
+
+    .footer__text-danger {
+        font-size: 14px;
+    }
+
+    .footer__text-year {
+        font-size: 14px;
+        margin-top: 40px;
+    }
+
+    .popup {
+        left: 45%;
+
+    }
+
+    .popup__old {
+        font-size: 20px;
+    }
+
+    .popup__logo img {
+        width: 100%;
+    }
+
+    .popup__access {
+        font-size: 12px;
+    }
+
+    .close,
+    .popup__cancel {
+        font-size: 10px;
+    }
+
+    .popup__danger {
+        font-size: 11px;
+    }
+
+    .popup__form-btn-link {
+        width: 82%;
+    }
+
+    .popup__form-btn,
+    .popup__form-btn-link {
+        font-size: 12px;
+    }
+
+}
